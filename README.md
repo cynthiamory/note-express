@@ -56,7 +56,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![Website Preview Image](./images/preview-2.png)
 
 ## Link To Deployed site on Heroku
-**Walkthrough:** [Link To Deployed site on Heroku!](https://....) 
+**Walkthrough:** [Link To Deployed site on Heroku!](https://cynthias-note-express.herokuapp.com/) 
 
 
 ## Installation and Usage
