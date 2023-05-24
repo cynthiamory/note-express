@@ -53,7 +53,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - ## Preview 1
 ![Website Preview Image](./images/preview-1.png)
 - ## Preview 2
-![Website Preview Image](./)
+![Website Preview Image](./images/preview-2.png)
 
 ## Link To Deployed site on Heroku
 **Walkthrough:** [Link To Deployed site on Heroku!](https://....) 

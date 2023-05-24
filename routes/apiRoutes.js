@@ -3,7 +3,7 @@ const router = require('express').Router();
 //IMPORT THE 'FS' MODULEFOR INTERACTING WITH THE FILE SYSTEM
 const fs = require ("fs");
 //IMPORTS THE 'UUIDV4' FUNCTION FROM THE 'UUID' MODULE TO GENERATE UNIQUE IDENTIFIERS
-const uuidv4 = require("uuid");
+const { v4: uuidv4 } = require('uuid');
 
 //ROUTE HANDLER FOR GET REQUEST TO '/API/NOTES'. USES ASYNCHRONOUS FUNCTION TO HANDLE THE REQUEST.
 router.get('/api/notes', async (req, res) => {
