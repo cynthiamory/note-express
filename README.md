@@ -88,7 +88,7 @@ Assignment was built with:
 - Course: Bootcamp Full Stack Development
 - Instructor: Ali Masqood
 - Tutor: Jose Lopez 
-- Learing Assistant Ask BCS Support: Jaytee aka JPadilla on slack
+- Learing Assistant Ask BCS Support: David aka dgaither on slack
 - License badges: Sheilds.io
 
 
