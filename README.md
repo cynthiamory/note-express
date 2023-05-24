@@ -56,7 +56,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![Website Preview Image](./)
 
 ## Link To Deployed site on Heroku
-**Walkthrough:** [Link to the walkthrough video!](https://youtu.be/pqtb8e6f9j8) 
+**Walkthrough:** [Link To Deployed site on Heroku!](https://....) 
 
 
 ## Installation and Usage
